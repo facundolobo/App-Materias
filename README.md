@@ -1,4 +1,4 @@
-# AppCotización 
+# AppMaterias
 
 Es una pequeña aplicacion de consola para la administracion de materias que cursamos, modemos agregar, modificar, completar y eliminar materias que agregaremos. 
 
